@@ -1,0 +1,75 @@
+[
+  {
+    "image1": "./assets/1-image1.jpg",
+    "image2": "./assets/1-image2.jpeg",
+    "image3": "./assets/1-image3.jpg",
+    "name": "Ghee-Garlic naan with panner butter masala"
+  },
+  {
+    "image1": "./assets/mush-1.jpeg",
+    "image2": "./assets/mush-2.jpeg",
+    "image3": "./assets/mush-3.jpeg",
+    "name": "Mushroom briyani with raitha & salad"
+  },
+  {
+    "image1": "./assets/briyani-1.jpg",
+    "image2": "./assets/briyani-2.jpg",
+    "image3": "./assets/briyani-3.jpg",
+    "name": "Dum mutton briyani with tandoori"
+  },
+  {
+    "image1": "./assets/dessert-1.jpeg",
+    "image2": "./assets/dessert-2.jpeg",
+    "image3": "./assets/dessert-3.jpeg",
+    "name": "truffle cake with vanilla n jam on top"
+  },
+  {
+    "image1": "./assets/naan-1.jpg",
+    "image2": "./assets/naan-2.jpg",
+    "image3": "./assets/naan-3.jpg",
+    "name": "Golden garlic panneer naan with spicy masala"
+  },
+  {
+    "image1": "./assets/sf-noodles-1.jpeg",
+    "image2": "./assets/sf-noodles-2.jpeg",
+    "image3": "./assets/sf-noodles-3.jpeg",
+    "name": "creamy egg & shirmp chilly noodles"
+  },
+  {
+    "image1": "./assets/burger-1.jpeg",
+    "image2": "./assets/burger-2.jpeg",
+    "image3": "./assets/burger-3.jpeg",
+    "name": "juicy chicken patty with cheese n tomato"
+  },
+  {
+    "image1": "./assets/noodles-1.jpeg",
+    "image2": "./assets/noodles-2.jpeg",
+    "image3": "./assets/noodles-3.jpeg",
+    "name": "Garlic chilly noodles with herbal seasoning"
+  },
+  {
+    "image1": "./assets/shrimp-1.jpeg",
+    "image2": "./assets/shrimp-2.jpeg",
+    "image3": "./assets/shrimp-3.jpg",
+    "name": "salted tiger shirmp with extra spice"
+  },
+  {
+    "image1": "./assets/chicken-1.jpeg",
+    "image2": "./assets/chicken-2.jpeg",
+    "image3": "./assets/chicken-3.jpeg",
+    "name": "korean chicken legs with glass noodles"
+  },
+
+  {
+    "image1": "./assets/paani-1.jpg",
+    "image2": "./assets/paani-2.jpg",
+    "image3": "./assets/paani-3.jpg",
+    "name": "paani poori with mint sauce & yogurty sauce"
+  },
+  {
+    "image1": "./assets/ghee-1.jpeg",
+    "image2": "./assets/ghee-2.jpeg",
+    "image3": "./assets/ghee-3.jpeg",
+    "name": "Thai chicken spicy curry with ghee rice"
+  }
+]
